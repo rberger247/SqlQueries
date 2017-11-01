@@ -8,4 +8,4 @@ SELECT [FirstName],
 
      
      )
-        SELECT *  FROM CTE WHERE RN > 1 
+    Delete FROM CTE WHERE RN > 1 
